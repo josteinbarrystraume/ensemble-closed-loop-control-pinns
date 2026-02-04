@@ -1,0 +1,8 @@
+# Minimal requirements for ensemble_cl_cpinn_control.py
+numpy
+scipy
+matplotlib
+torch
+
+# Optional (only needed for PPO baselines)
+# gymnasium
